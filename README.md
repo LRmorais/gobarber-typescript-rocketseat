@@ -1,5 +1,6 @@
-# GitHub Explorer
 
+# GoBarber
+<!--
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=Typescript&message=language&color=bluew&style=for-the-badge&logo=Typescript" style="display: inline;"/>
     <img src="https://img.shields.io/static/v1?label=ReactJS&message=framework&color=blue&style=for-the-badge&logo=react" style="display: inline;"/>
@@ -46,3 +47,4 @@ Após o merge de sua solicitação pull request, você pode excluir seu branch.
 
 Relate algum bug [here](https://github.com/LRmorais/github-explorer-typescript/issuess).
 
+  -->
